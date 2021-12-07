@@ -15,7 +15,7 @@
 
 ### Repositori Rebornian48.github.io
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rebornian48&show_owner=true&repo=rebornian48.github.io&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rebornian48&show_owner=true&repo=rebornian48.github.io&theme=algolia)](https://github.com/rebornian48/rebornian48.github.io)
 
 <!---
 Rebornian48/Rebornian48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
