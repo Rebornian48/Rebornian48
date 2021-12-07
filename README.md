@@ -1,7 +1,7 @@
 ![alt text](https://avatars.githubusercontent.com/u/80138640 "Rebornian48")
 ## Rebornian48
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=rebornian48&show_icons=true&count_private=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Status](https://github-readme-stats.vercel.app/api?username=rebornian48&show_icons=true&count_private=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @Rebornian48
 - 👀 I’m interested in HTML and Javascript 
