@@ -9,6 +9,7 @@
 
 [![Website](https://img.shields.io/website?label=LandingPage&style=for-the-badge&url=https%3A%2F%2Frebornian48.github.io)](https://rebornian48.github.io)
 
+![alt text](https://avatars.githubusercontent.com/u/80138640 "Rebornian48")
 <!---
 Rebornian48/Rebornian48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
