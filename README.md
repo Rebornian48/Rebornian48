@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m @Rebornian48
 - 👀 I’m interested in HTML and Javascript 
-- 🌱 I’m currently learning PHP Framework
+- 🌱 I’m currently learning PHP and Python
 
 #### Project : 
 - [Rebornian48 Repository](https://rebornian48.github.io)
