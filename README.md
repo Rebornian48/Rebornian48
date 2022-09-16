@@ -7,9 +7,12 @@
 - 👀 I’m interested in HTML and Javascript 
 - 🌱 I’m currently learning PHP Framework
 
-#### Project : [Rebornian48](https://rebornian48.github.io)
+#### Project : 
+- [Rebornian48 Repository](https://rebornian48.github.io)
+- [Rebornian48 Website](https://rebornian48.com)
 
 [![Website](https://img.shields.io/website?label=Rebornian48&style=for-the-badge&url=https%3A%2F%2Frebornian48.github.io)](https://rebornian48.github.io)
+[![Website](https://img.shields.io/website?label=Rebornian48&style=for-the-badge&url=https%3A%2F%2Frebornian48.com)](https://rebornian48.com)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rebornian48)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebornian48&layout=compact&theme=algolia&langs_count=10)](https://github.com/rebornian48)
