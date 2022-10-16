@@ -15,6 +15,9 @@
 [![Website](https://img.shields.io/website?label=Rebornian48&style=for-the-badge&url=https%3A%2F%2Frebornian48.com)](https://rebornian48.com)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rebornian48)
 
+### Some stats maybe
+<img src="https://github-profile-trophy.vercel.app/?username=Rebornian48&theme=radical&count_private=true" />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebornian48&layout=compact&theme=algolia&langs_count=10)](https://github.com/rebornian48)
 
 ### Repositori Rebornian48.github.io
