@@ -23,3 +23,10 @@
 ### Repositori Rebornian48.github.io
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rebornian48&show_owner=true&repo=rebornian48.github.io&theme=algolia)](https://github.com/rebornian48/rebornian48.github.io)
+
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
+</p>
