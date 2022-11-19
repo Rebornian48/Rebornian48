@@ -14,7 +14,7 @@
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rebornian48)
 
 ### Some stats maybe
-<img src="https://github-profile-trophy.vercel.app/?username=Rebornian48&theme=radical&count_private=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rebornian48&theme=algolia&count_private=true" />
 
 <p align="right">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=rebornian48&theme=algolia&show_icons=true" />
