@@ -20,8 +20,8 @@
 [![Status](https://github-readme-stats.vercel.app/api?username=rebornian48&show_icons=true&count_private=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="right">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=alexnaiman&theme=tokyonight&show_icons=true" />
-<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexnaiman&theme=tokyonight&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=rebornian48&theme=tokyonight&show_icons=true" />
+<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebornian48&theme=tokyonight&show_icons=true" />
 </p>
 
 ### Repositori Rebornian48.github.io
