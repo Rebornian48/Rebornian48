@@ -16,9 +16,9 @@
 ### Some stats maybe
 <img src="https://github-profile-trophy.vercel.app/?username=Rebornian48&theme=algolia&count_private=true" />
 
-<p align="right">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rebornian48&theme=algolia&show_icons=true" />
-<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebornian48&theme=algolia&show_icons=true" />
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=rebornian48&theme=algolia&show_icons=true" /><br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebornian48&theme=algolia&show_icons=true" />
 </p>
 
 ### Repositori Rebornian48.github.io
