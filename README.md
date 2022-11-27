@@ -5,8 +5,8 @@
 - 👀 I’m interested in HTML and Javascript 
 - 🌱 I’m currently learning PHP and Python
 
-[![Website](https://img.shields.io/website?label=Rebornian48 Github&style=for-the-badge&url=https%3A%2F%2Frebornian48.github.io)](https://rebornian48.github.io)
-[![Website](https://img.shields.io/website?label=Rebornian48 Website&style=for-the-badge&url=https%3A%2F%2Frebornian48.com)](https://rebornian48.com)
+[![Website](https://img.shields.io/website?label=Rebornian48_Github&style=for-the-badge&url=https%3A%2F%2Frebornian48.github.io)](https://rebornian48.github.io)
+[![Website](https://img.shields.io/website?label=Rebornian48_Website&style=for-the-badge&url=https%3A%2F%2Frebornian48.com)](https://rebornian48.com)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rebornian48)
 
 ### Some stats maybe
