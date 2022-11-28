@@ -11,7 +11,7 @@
 
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rebornian48&theme=algolia&count_private=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rebornian48" />
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=rebornian48&theme=algolia&show_icons=true" /><br />
