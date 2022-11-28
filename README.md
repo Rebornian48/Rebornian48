@@ -17,12 +17,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebornian48&theme=algolia&show_icons=true" />
 </p>
 
-### Repositori
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rebornian48&show_owner=true&repo=rebornian48.github.io&theme=algolia)](https://github.com/rebornian48/rebornian48.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rebornian48&show_owner=true&repo=covid19&theme=algolia)](https://github.com/rebornian48/covid19)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rebornian48&show_owner=true&repo=FWC2022&theme=algolia)](https://github.com/rebornian48/FWC2022)
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Rebornian48/count.svg" />
