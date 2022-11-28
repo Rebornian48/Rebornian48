@@ -9,7 +9,8 @@
 [![Website](https://img.shields.io/website?label=Rebornian48_Website&style=for-the-badge&url=https%3A%2F%2Frebornian48.com)](https://rebornian48.com)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rebornian48)
 
-### Some stats maybe
+
+
 <img src="https://github-profile-trophy.vercel.app/?username=Rebornian48&theme=algolia&count_private=true" />
 
 <p>
@@ -17,6 +18,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebornian48&theme=algolia&show_icons=true" />
 </p>
 
+[![Image of https://github.com/Rebornian48/views-counter](https://github.com/Rebornian48/views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Rebornian48/views-counter)
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Rebornian48/count.svg" />
