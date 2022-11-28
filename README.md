@@ -18,8 +18,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebornian48&theme=algolia&show_icons=true" />
 </p>
 
-[graph](https://activity-graph.herokuapp.com/graph?username=char-al&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
-</details>
+[graph](https://activity-graph.herokuapp.com/graph?username=rebornian48&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
 
 [![Image of https://github.com/Rebornian48/views-counter](https://github.com/Rebornian48/views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Rebornian48/views-counter)
 
