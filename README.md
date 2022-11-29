@@ -37,3 +37,5 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Rebornian48/count.svg" />
 </p>
+
+<img src="./globe_spinning.svg" style="width: 20vw;" />
