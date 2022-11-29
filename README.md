@@ -27,6 +27,8 @@
 </p>
 
 ![graph](https://activity-graph.herokuapp.com/graph?username=rebornian48&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Rebornian48&theme=dark)](https://git.io/streak-stats)
 </details>
 
 [![Image of https://github.com/Rebornian48/views-counter](https://github.com/Rebornian48/views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Rebornian48/views-counter)
