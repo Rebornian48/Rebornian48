@@ -9,8 +9,8 @@
 [![Website](https://img.shields.io/website?label=Rebornian48_Website&style=for-the-badge&url=https%3A%2F%2Frebornian48.com)](https://rebornian48.com)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rebornian48)
 
-
-
+<details>
+  <summary><b>Stats</b></summary>
 <img src="https://github-profile-trophy.vercel.app/?username=Rebornian48" />
 
 <p>
@@ -19,6 +19,7 @@
 </p>
 
 ![graph](https://activity-graph.herokuapp.com/graph?username=rebornian48&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
+</details>
 
 [![Image of https://github.com/Rebornian48/views-counter](https://github.com/Rebornian48/views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Rebornian48/views-counter)
 ![Profile Score](https://gitwar.herokuapp.com/badge?username=rebornian48&style=for-the-badge)
