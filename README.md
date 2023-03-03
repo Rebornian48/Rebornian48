@@ -9,7 +9,7 @@
 </details>
 
 <details>
-  <summary><b>Where to find me</b></summary>
+  <summary><b>Where to find me?</b></summary>
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Rebornian48)
 <a href="https://twitter.com/rebornian48" target="blank"><img src="https://img.shields.io/twitter/follow/rebornian48?logo=twitter&style=for-the-badge" alt="rebornian48" /></a>
