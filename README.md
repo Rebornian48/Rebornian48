@@ -1,6 +1,8 @@
 ![alt text](https://avatars.githubusercontent.com/u/80138640 "Rebornian48")
 ## Rebornian48
 
+<img src="./globe_spinning.svg" style="width: 20vw;" />
+
 - 👋 Hi, I’m @Rebornian48
 - 👀 I’m interested in <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> HTML and <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> Javascript 
 - 🌱 I’m currently learning <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
@@ -71,5 +73,3 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Rebornian48/count.svg" />
 </p>
-
-<img src="./globe_spinning.svg" style="width: 20vw;" />
