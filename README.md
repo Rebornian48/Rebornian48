@@ -5,7 +5,7 @@ Selamat datang di akun Github milik Rebornian48, Rebornian48 merupakan akun fans
 
 Daftar proyek yang telah dikembangkan
 1. Situs web Rebornian48 : https://rebornian48.github.io
-2. Roadmap terkait pengembangan situs web Rebornain48 dapat dilihat melalui https://github.com/Rebornian48/roadmap
+2. Portal Aplikasi JKT48 : https://rebornian48.github.io/portalapps
 3. Daftar aplikasi yang dikembangkan dan dibangun oleh Rebornian48 dapat dilihat melalui (masih dalam tahap pengembangan)
 4. Daftar aplikasi yang dikembangkan dan dibangun oleh akun fans JKT48 dapat dilihat melalui (masih dalam tahap pengembangan)
 5. Daftar aplikasi yang digunakan fans JKT48 dari Official JKT48 dapat dilihat melalui (masih dalam tahap pengembangan)
