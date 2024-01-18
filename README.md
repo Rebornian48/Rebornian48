@@ -10,7 +10,8 @@ Daftar proyek yang telah dikembangkan
 4. Daftar aplikasi yang dikembangkan dan dibangun oleh akun fans JKT48 dapat dilihat melalui (masih dalam tahap pengembangan)
 5. Daftar aplikasi yang digunakan fans JKT48 dari Official JKT48 dapat dilihat melalui (masih dalam tahap pengembangan)
 
-Pengembangan akan menggunakan
+Daftar bahasa dan aplikasi pendukung pengembangan situs web
 1. CSS Framework + Library : TailwindCSS (https://tailwindcss.com) dan daisyUI (https://daisyui.com/)
 2. Bahasa Pemrograman : Javascript (VanillaJS)
 3. Aplikasi Pendukung untuk Meninjau _Source Code_ : Codefactor (https://codefactor.io) dan Codacy (https://codacy.com)
+4. Aplikasi _Source Code Editor_ : Visual Studio Code (https://code.visualstudio.com/)
