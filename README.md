@@ -9,6 +9,7 @@ Daftar proyek yang telah dikembangkan
 3. Daftar aplikasi yang dikembangkan dan dibangun oleh Rebornian48 dapat dilihat melalui (masih dalam tahap pengembangan)
 4. Daftar aplikasi yang dikembangkan dan dibangun oleh akun fans JKT48 dapat dilihat melalui (masih dalam tahap pengembangan)
 5. Daftar aplikasi yang digunakan fans JKT48 dari Official JKT48 dapat dilihat melalui (masih dalam tahap pengembangan)
+6. Daftar aplikasi yang dikembangkan dalam versi Github Readme Pages : https://github.com/Rebornian48/Rebornian48/blob/main/project-lists.md
 
 Daftar bahasa dan aplikasi pendukung pengembangan situs web
 1. CSS Framework + Library : TailwindCSS (https://tailwindcss.com) dan daisyUI (https://daisyui.com/)
