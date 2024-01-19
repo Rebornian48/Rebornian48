@@ -22,6 +22,7 @@ Daftar bahasa dan aplikasi pendukung pengembangan situs web
 2. Bahasa Pemrograman : Javascript (VanillaJS)
 3. Aplikasi Pendukung untuk Meninjau _Source Code_ : Codefactor (<https://codefactor.io>) dan Codacy (<https://codacy.com>)
 4. Aplikasi _Source Code Editor_ : Visual Studio Code (<https://code.visualstudio.com/>)
+5. Pembangunan Blog menggunakan <https://editor.stastic.net/#/>
 
 Jika ingin mendukung proyek dari Rebornian48 dapat disalurkan melalui:
 1. Trakteer : <https://trakteer.id/rebornian48>
