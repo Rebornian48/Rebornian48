@@ -4,6 +4,9 @@
 
 Selamat datang di akun Github milik Rebornian48, Rebornian48 merupakan akun fansite JKT48 yang seringkali mengembangkan proyek kecil-kecilan. Proyek yang berhubungan dengan pengembangan situs web, baik terkait JKT48 atau non JKT48 akan dikembangkan salah satunya menggunakan platform Github ini. Daftar proyek yang dikembangkan akan diperbaharui secara berkala di sini.
 
+Kemampuan<br />
+<img src="https://www.codewars.com/users/Rebornian48/badges/large" alt="CodeWars">
+
 Sosial Media
 
 1. Twitter : <https://twitter.com/Rebornian48>
