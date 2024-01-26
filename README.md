@@ -26,10 +26,11 @@ Daftar proyek yang telah dikembangkan
 Daftar bahasa dan aplikasi pendukung pengembangan situs web
 
 1. CSS Framework + Library : TailwindCSS (<https://tailwindcss.com>) dan daisyUI (<https://daisyui.com/>)
-2. Bahasa Pemrograman : Javascript (VanillaJS)
-3. Aplikasi Pendukung untuk Meninjau _Source Code_ : Codefactor (<https://codefactor.io>) dan Codacy (<https://codacy.com>)
-4. Aplikasi _Source Code Editor_ : Visual Studio Code (<https://code.visualstudio.com/>)
-5. Pembangunan Blog menggunakan <https://editor.stastic.net/#/>
+2. Font Icon Library : FontAwesome (<https://fontawesome.com/>)
+3. Bahasa Pemrograman : Javascript (VanillaJS)
+4. Aplikasi Pendukung untuk Meninjau _Source Code_ : Codefactor (<https://codefactor.io>) dan Codacy (<https://codacy.com>)
+5. Aplikasi _Source Code Editor_ : Visual Studio Code (<https://code.visualstudio.com/>)
+6. Pembangunan Blog menggunakan <https://editor.stastic.net/#/>
 
 Jika ingin mendukung proyek dari Rebornian48 dapat disalurkan melalui:
 
