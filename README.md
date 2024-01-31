@@ -4,14 +4,11 @@
 
 Selamat datang di akun Github milik Rebornian48, Rebornian48 merupakan akun fansite JKT48 yang seringkali mengembangkan proyek kecil-kecilan. Proyek yang berhubungan dengan pengembangan situs web, baik terkait JKT48 atau non JKT48 akan dikembangkan salah satunya menggunakan platform Github ini. Daftar proyek yang dikembangkan akan diperbaharui secara berkala di sini.
 
-Sosial Media
-
-
-
+Sosial Media :
 
 <div align="left">
   <a href="https://twitter.com/Rebornian48" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="https://t.me/Rebornian48" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
@@ -55,6 +52,10 @@ Kemampuan<br />
   <img src="https://github-readme-stats.vercel.app/api?username=Rebornian48&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rebornian48&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rebornian48&theme=dracula" alt="rebornian48" />
+   <a href="https://wakatime.com/@rebornian48">
+   <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/wakatime?username=rebornian48&layout=compact&title_color=8B64FF&range=last_7_days&theme=dracula" alt="rebornian48's wakatime stats"/>
+   </a>
+   <a href="https://github.com/rebornian48/"><img width="650px" alt="rebornian48's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rebornian48&theme=dracula&line=8B64FF&point=d62976&theme=dracula" /></a>
 </div>
 
 ###
