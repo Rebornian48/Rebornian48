@@ -53,7 +53,7 @@ Kemampuan<br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rebornian48&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rebornian48&theme=dracula" alt="rebornian48" />
    <a href="https://wakatime.com/@rebornian48">
-   <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/wakatime?username=rebornian48&layout=compact&title_color=8B64FF&range=last_7_days&theme=dracula" alt="rebornian48's wakatime stats"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rebornian48&card_width=320&layout=compact&title_color=8B64FF&range=last_7_days&theme=dracula" alt="rebornian48's wakatime stats"/>
    </a>
    <a href="https://github.com/rebornian48/"><img width="650px" alt="rebornian48's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rebornian48&theme=dracula&line=8B64FF&point=d62976&theme=dracula" /></a>
 </div>
