@@ -4,13 +4,23 @@
 
 Selamat datang di akun Github milik Rebornian48, Rebornian48 merupakan akun fansite JKT48 yang seringkali mengembangkan proyek kecil-kecilan. Proyek yang berhubungan dengan pengembangan situs web, baik terkait JKT48 atau non JKT48 akan dikembangkan salah satunya menggunakan platform Github ini. Daftar proyek yang dikembangkan akan diperbaharui secara berkala di sini.
 
-Kemampuan<br />
-<img src="https://www.codewars.com/users/Rebornian48/badges/large" alt="CodeWars">
-
 Sosial Media
 
-1. Twitter : <https://twitter.com/Rebornian48>
-2. Tiktok : <https://www.tiktok.com/@Rebornian48>
+
+
+
+<div align="left">
+  <a href="https://twitter.com/Rebornian48" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://t.me/Rebornian48" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="https://instagram.com/Rebornian48" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
 
 Blog : <https://rebornian48.github.io/blog>
 
@@ -37,3 +47,18 @@ Jika ingin mendukung proyek dari Rebornian48 dapat disalurkan melalui:
 1. Trakteer : <https://trakteer.id/rebornian48>
 2. Saweria : <https://saweria.co/Rebornian48>
 3. Github Sponsor : <https://github.com/sponsors/Rebornian48>
+
+Kemampuan<br />
+<img src="https://www.codewars.com/users/Rebornian48/badges/large" alt="CodeWars">
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rebornian48&theme=dracula" alt="rebornian48" /></a> </p><div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rebornian48&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rebornian48&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rebornian48&theme=dracula" alt="rebornian48" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Rebornian48/count.svg?"  />
+</div>
