@@ -45,9 +45,10 @@ Jika ingin mendukung proyek dari Rebornian48 dapat disalurkan melalui:
 2. Saweria : <https://saweria.co/Rebornian48>
 3. Github Sponsor : <https://github.com/sponsors/Rebornian48>
 
-Kemampuan<br />
+Statistik Github<br />
 <img src="https://www.codewars.com/users/Rebornian48/badges/large" alt="CodeWars">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=Rebornian48&data=followers,repositories,stars,commits" alt="Profile">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=Rebornian48&data=followers,repositories,stars,commits&theme=dracula" alt="Profile">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rebornian48&theme=dracula">
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=rebornian48&theme=dracula" alt="rebornian48" /> </p><div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rebornian48&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rebornian48&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -55,6 +56,7 @@ Kemampuan<br />
    <a href="https://wakatime.com/@rebornian48">
    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rebornian48&card_width=320&layout=compact&title_color=8B64FF&range=last_7_days&theme=dracula" alt="rebornian48's wakatime stats"/>
    </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rebornian48&theme=dracula&utcOffset=7">
    <img width="650px" alt="rebornian48's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rebornian48&theme=dracula&line=8B64FF&point=d62976&theme=dracula" />
 </div>
 
