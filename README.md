@@ -18,9 +18,6 @@ Sosial Media :
   </a>
 </div>
 
-
-Blog : <https://rebornian48.github.io/blog>
-
 Daftar proyek yang telah dikembangkan
 
 1. Situs web Rebornian48 : <https://rebornian48.github.io>
