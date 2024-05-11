@@ -39,7 +39,8 @@ Jika ingin mendukung proyek dari Rebornian48 dapat disalurkan melalui:
 
 1. Trakteer : <https://trakteer.id/rebornian48>
 2. Saweria : <https://saweria.co/Rebornian48>
-3. Github Sponsor : <https://github.com/sponsors/Rebornian48>
+3. KaryaKarsa : <https://karyakarsa.com/rebornian48>
+4. Github Sponsor : <https://github.com/sponsors/Rebornian48>
 
 Statistik Github<br />
 <img src="https://www.codewars.com/users/Rebornian48/badges/large" alt="CodeWars">
