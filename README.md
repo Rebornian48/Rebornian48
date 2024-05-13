@@ -29,7 +29,7 @@ Daftar proyek yang telah dikembangkan
 
 Daftar bahasa dan aplikasi pendukung pengembangan situs web
 
-1. CSS Framework + Library : TailwindCSS (<https://tailwindcss.com>) dan daisyUI (<https://daisyui.com/>)
+1. CSS Framework + Library : TailwindCSS (<https://tailwindcss.com>) dan TailwindUI (<https://tailwindui.com/>)
 2. Font Icon Library : FontAwesome (<https://fontawesome.com/>)
 3. Bahasa Pemrograman : Javascript (VanillaJS)
 4. Aplikasi Pendukung untuk Meninjau _Source Code_ : Codefactor (<https://codefactor.io>) dan Codacy (<https://codacy.com>)
