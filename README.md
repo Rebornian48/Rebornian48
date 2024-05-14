@@ -27,11 +27,9 @@
 ![Hello](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rebornian48&theme=dracula)
 ![rebornian48](https://github-profile-trophy.vercel.app/?username=rebornian48&theme=dracula)
 ![stats_graph](https://github-readme-stats.vercel.app/api?username=Rebornian48&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1)
-![languages graph]("https://github-readme-stats.vercel.app/api/top-langs?username=Rebornian48&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2 height=150")
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rebornian48&theme=dracula" alt="rebornian48" />
-   <a href="https://wakatime.com/@rebornian48">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rebornian48&card_width=320&layout=compact&title_color=8B64FF&range=last_7_days&theme=dracula" alt="rebornian48's wakatime stats"/>
-   </a>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rebornian48&theme=dracula&utcOffset=7">
-   <img width="650px" alt="rebornian48's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rebornian48&theme=dracula&line=8B64FF&point=d62976&theme=dracula" />
+![languages graph](https://github-readme-stats.vercel.app/api/top-langs?username=Rebornian48&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&height=150)
+![rebornian48](https://github-readme-streak-stats.herokuapp.com/?user=rebornian48&theme=dracula)
+![rebornian48's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rebornian48&card_width=320&layout=compact&title_color=8B64FF&range=last_7_days&theme=dracula)
+![rebornian48 time stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rebornian48&theme=dracula&utcOffset=7)
+![rebornian48's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rebornian48&theme=dracula&line=8B64FF&point=d62976&theme=dracula)
 ![counter](https://profile-counter.glitch.me/Rebornian48/count.svg?)
