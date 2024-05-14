@@ -23,11 +23,10 @@ Sosial Media :
 Daftar proyek yang telah dikembangkan
 
 1. Situs web Rebornian48 : <https://rebornian48.github.io>
-2. Portal Aplikasi JKT48 : <https://rebornian48.github.io/portalapps>
-3. Daftar aplikasi yang dikembangkan dan dibangun oleh Rebornian48 dapat dilihat melalui <https://rebornian48.github.io/myapps/> (masih dalam tahap pengembangan)
-4. Daftar aplikasi yang dikembangkan dan dibangun oleh akun fans JKT48 dapat dilihat melalui <https://rebornian48.github.io/fansapps/> (masih dalam tahap pengembangan)
-5. Daftar aplikasi yang digunakan fans JKT48 dari Official JKT48 dapat dilihat melalui <https://rebornian48.github.io/ofcapps/> (masih dalam tahap pengembangan)
-6. Daftar aplikasi yang dikembangkan dalam versi Github Readme Pages : <https://github.com/Rebornian48/Projects>
+2. Daftar aplikasi yang dikembangkan dan dibangun oleh Rebornian48 dapat dilihat melalui <https://rebornian48.github.io/portalapps>
+3. Daftar aplikasi yang dikembangkan dan dibangun oleh akun fans JKT48 dapat dilihat melalui <https://rebornian48.github.io/fansapps/> (masih dalam tahap pengembangan)
+4. Daftar aplikasi yang digunakan fans JKT48 dari Official JKT48 dapat dilihat melalui <https://rebornian48.github.io/ofcapps/> (masih dalam tahap pengembangan)
+5. Daftar aplikasi yang dikembangkan dalam versi Github Readme Pages : <https://github.com/Rebornian48/Projects>
 
 Daftar bahasa dan aplikasi pendukung pengembangan situs web
 
