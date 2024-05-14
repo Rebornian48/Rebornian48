@@ -1,18 +1,5 @@
 # Rebornian48
 
-## Sosial Media
-<div align="left">
-  <a href="https://twitter.com/Rebornian48" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://t.me/Rebornian48" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="https://instagram.com/Rebornian48" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
 ## Daftar Proyek
 1. Situs web Rebornian48 : <https://rebornian48.github.io>
 2. Daftar aplikasi Rebornian48 : <https://rebornian48.github.io/portalapps>
