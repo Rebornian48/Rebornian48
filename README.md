@@ -1,5 +1,4 @@
 # Rebornian48
-
 ## Daftar Proyek
 
 1. Situs web Rebornian48 : <https://rebornian48.github.io>
@@ -14,8 +13,9 @@
 2. CSS Library : TailwindUI (<https://tailwindui.com/>)
 3. Font Icon Library : FontAwesome (<https://fontawesome.com/>)
 4. Bahasa Pemrograman : Javascript (VanillaJS)
-5. Aplikasi Pendukung untuk Meninjau _Source Code_ : Codefactor (<https://codefactor.io>) dan Codacy (<https://codacy.com>)
-6. Aplikasi _Source Code Editor_ : Visual Studio Code (<https://code.visualstudio.com/>)
+5. Aplikasi Pendukung untuk Meninjau _Source Code_ : Codefactor (<https://codefactor.io>)
+6. Aplikasi Pendukung untuk Meninjau _Source Code_ : Codacy (<https://codacy.com>)
+7. Aplikasi _Source Code Editor_ : Visual Studio Code (<https://code.visualstudio.com/>)
 
 ## Donasi untuk Rebornian48
 
