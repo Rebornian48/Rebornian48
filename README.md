@@ -1,12 +1,3 @@
-<link rel="stylesheet" href="https://unpkg.com/octicons@4.4.0/build/font/octicons.css">
-<link rel="stylesheet" href="https://unpkg.com/github-activity-feed@latest/dist/github-activity.min.css">
-
-<script type="text/javascript" src="https://unpkg.com/mustache@4.2.0/mustache.min.js"></script>
-<script type="text/javascript" src="https://unpkg.com/github-activity-feed@latest/dist/github-activity.min.js"></script>
-
-<!-- if using dark theme add this in addition to the main CSS file -->
-<link rel="stylesheet" href="https://unpkg.com/github-activity-feed@latest/dist/github-activity.dark.min.css">
-
 # Rebornian48
 
 ## Daftar Proyek
