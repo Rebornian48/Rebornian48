@@ -9,6 +9,12 @@
 4. Daftar aplikasi Official JKT48 : <https://rebornian48.github.io/ofcapps/>
 5. Daftar aplikasi (format Github Readme Pages) : <https://github.com/Rebornian48/Projects>
 
+---
+
+### :zap: Aktivitas Terkini
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## Daftar bahasa dan aplikasi pendukung pengembangan situs web
 
 1. CSS Framework : TailwindCSS (<https://tailwindcss.com>)
