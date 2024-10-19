@@ -12,7 +12,8 @@
 ---
 
 ### :zap: Aktivitas Terkini
-<!--START_SECTION:activity-->
+ <!--START_SECTION:activity-->
+  
 <!--END_SECTION:activity-->
 
 ## Daftar bahasa dan aplikasi pendukung pengembangan situs web
