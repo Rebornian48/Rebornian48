@@ -20,6 +20,8 @@
 6. Aplikasi Pendukung untuk Meninjau _Source Code_ : Codacy (<https://codacy.com>)
 7. Aplikasi _Source Code Editor_ : Visual Studio Code (<https://code.visualstudio.com/>)
 
+---
+
 ## Donasi untuk Rebornian48
 
 1. Trakteer : <https://trakteer.id/rebornian48>
