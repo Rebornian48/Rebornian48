@@ -3,10 +3,11 @@
 ## Daftar Proyek
 
 1. Situs web Rebornian48 : <https://rebornian48.github.io>
-2. Daftar aplikasi Rebornian48 : <https://rebornian48.github.io/portalapps>
-3. Daftar aplikasi Akun Fans JKT48 Lain : <https://rebornian48.github.io/fansapps/>
-4. Daftar aplikasi Official JKT48 : <https://rebornian48.github.io/ofcapps/>
-5. Daftar aplikasi (format Github Readme Pages) : <https://github.com/Rebornian48/Projects>
+2. Aktivitas Terkini: <https://rebornian48.github.io/aktivitas-terkini/>
+3. Daftar aplikasi Rebornian48 : <https://rebornian48.github.io/portalapps>
+4. Daftar aplikasi Akun Fans JKT48 Lain : <https://rebornian48.github.io/fansapps/>
+5. Daftar aplikasi Official JKT48 : <https://rebornian48.github.io/ofcapps/>
+6. Daftar aplikasi (format Github Readme Pages) : <https://github.com/Rebornian48/Projects>
 
 ---
 
