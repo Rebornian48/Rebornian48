@@ -12,6 +12,7 @@ Hi, I'm **Rebornian48**. This README shares what I'm building, the tools I use, 
     <img src="https://www.gitskins.com/api/section/hero?username=Rebornian48&theme=github-dark" alt="Rebornian48 hero section" />
   </picture>
 </p>
+
 ## About Me
 
 <p align="center">
@@ -20,6 +21,7 @@ Hi, I'm **Rebornian48**. This README shares what I'm building, the tools I use, 
     <img src="https://www.gitskins.com/api/section/about?username=Rebornian48&theme=github-dark" alt="Rebornian48 about section" />
   </picture>
 </p>
+
 ## Skills
 
 <p align="center">
@@ -28,6 +30,7 @@ Hi, I'm **Rebornian48**. This README shares what I'm building, the tools I use, 
     <img src="https://www.gitskins.com/api/section/stack?username=Rebornian48&theme=github-dark" alt="Rebornian48 stack section" />
   </picture>
 </p>
+
 ## GitHub Stats
 
 <p align="center">
@@ -36,6 +39,7 @@ Hi, I'm **Rebornian48**. This README shares what I'm building, the tools I use, 
     <img src="https://www.gitskins.com/api/section/stats?username=Rebornian48&theme=github-dark" alt="Rebornian48 stats section" />
   </picture>
 </p>
+
 ## Projects
 
 <p align="center">
@@ -44,6 +48,7 @@ Hi, I'm **Rebornian48**. This README shares what I'm building, the tools I use, 
     <img src="https://www.gitskins.com/api/section/projects?username=Rebornian48&theme=github-dark" alt="Rebornian48 projects section" />
   </picture>
 </p>
+
 ## Heatmap
 
 ## Connect
